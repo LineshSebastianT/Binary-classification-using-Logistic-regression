@@ -1,2 +1,2 @@
 # Binary-classification-using-Logistic-regression
-Understanding Binary classification
+Understanding Binary and multi-class classification using Logistic Regression
